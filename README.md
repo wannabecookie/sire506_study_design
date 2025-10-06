@@ -1,1 +1,1 @@
-# sire506_study_design
+# sire506 study design
