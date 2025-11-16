@@ -8,7 +8,7 @@
 Propose two distinct epidemiological study designs that could rigorously test the hypothesis that *VAR-X* is associated with accelerated cognitive decline in Alzheimer's patients. For this discussion:
 
 * **Part A:** Choose one observational design (e.g., prospective cohort, retrospective cohort, or case-control) and one experimental design (e.g., a hypothetical randomized controlled trial for a therapeutic targeting the *VAR-X* pathway).  
-  <span style="color:red">ANS</span>	For the observational design, we chose a **prospective cohort study** to validate whether VAR-X is significantly associated with accelerated cognitive decline in Alzheimer’s patients by observing and following those with and without the variant and comparing their respective rates of cognitive decline.  
+  <font color="red">ANS</font>	For the observational design, we chose a **prospective cohort study** to validate whether VAR-X is significantly associated with accelerated cognitive decline in Alzheimer’s patients by observing and following those with and without the variant and comparing their respective rates of cognitive decline.  
   We chose a **randomized controlled trial** for the experimental design. Alzheimer’s patients will be randomly assigned to receive a treatment targeting VAR-X or a placebo, which will be added to their regular care. The study is to compare the rate of cognitive decline between the two groups.  
 * **Part B:** For each design, define your specific study population, primary exposure, and primary outcome measure.  
   <span style="color:red">ANS</span>
