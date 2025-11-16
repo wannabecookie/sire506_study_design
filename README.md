@@ -1,9 +1,8 @@
-# sire506 study design
 # Discussion Prompts: Designing a Study for a Novel Gene Variant
 
 **Scenario:** Imagine a large-scale Genome-Wide Association Study (GWAS) has identified a novel gene variant, *VAR-X*. Preliminary data suggests *VAR-X* is significantly associated with accelerated cognitive decline in patients already diagnosed with Alzheimer's disease. As a team of epidemiologists and bioinformaticians, your group has been tasked with designing the definitive study to validate this association and understand its clinical impact.
 
-### Question 1: The Foundational Design Choice
+## Question 1: The Foundational Design Choice
 
 Propose two distinct epidemiological study designs that could rigorously test the hypothesis that *VAR-X* is associated with accelerated cognitive decline in Alzheimer's patients. For this discussion:
 
